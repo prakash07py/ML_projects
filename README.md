@@ -1,7 +1,7 @@
-Regression model on Housing Price predictions
+Ecom Classification Model on Customer Purchase Intention
 
 Classification model on healthcare domain
 
 Customer Segmentation using Unsupervised Learning's clustering technique.
 
-Ecom Classification Model on Customer Purchase Intention
+Regression model on Housing Price predictions
